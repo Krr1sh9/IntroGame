@@ -1,6 +1,3 @@
 # IntroGame
 
-
-
-This is a test Unity game.
-
+Multi-platform Game Development Lab 1
